@@ -46,7 +46,7 @@ digital-warranty-tracker/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### Backend
 
